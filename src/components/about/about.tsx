@@ -20,13 +20,9 @@ export default function About() {
           />
         </div>
         <p className="text-slate-400 text-sm lg:text-base pt-2 lg:pt-4 ">
-          Hello everyone, my name is I Made Panji Pusaka Suryeswara, you can
-          call me Panji. I am not just a informatics student, tech enthusiast
-          and a big dreamer. Have interest with web development and mobile
-          development especially android, also passionate to make design UI/UX.
-          From early 20s, i dedicated my life to grow in this industry and gain
-          more experience with create some project and collaborating with other
-          people.
+          Hi! My name is Iputu Indrawan. I'm a budding programmer, and I'm very passionate and dedicated to my hobby. 
+          With self-taught experience, I have acquired some of the skills and knowledge necessary to create a rest apis project. 
+          I enjoy every step of the design process, from discussions and collaboration.
         </p>
         <h2 className="text-slate-100 font-semibold text-xl lg:text-3xl mt-8">
           Programming Language
