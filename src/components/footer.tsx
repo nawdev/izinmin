@@ -5,7 +5,7 @@ export default function Footer() {
         <p className="text-slate-500 font-light text-xs text-center">
           Designed and Coded by
           <span className="text-slate-100"> siputzx</span> with
-          <span className="text-indigo-600"> Love</span> and          
+          <span className="text-indigo-600"> Love</span>        
         </p>
       </footer>
     </>
